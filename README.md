@@ -10,7 +10,7 @@ The primary objective is to provide accurate predictions of COVID-19 trends, ass
 
 ## Data Information
 
-The dataset includes daily updates on COVID-19 cases, deaths, and recoveries across countries and regions. Features may include geographical information, population density, healthcare infrastructure, and other relevant factors influencing the spread of the virus.
+The dataset includes daily updates on COVID-19 cases, deaths, and recoveries across countries and regions. Features include geographical information, deaths, recoveries and other relevant factors influencing the spread of the virus.
 
 ## Problem Statement
 
